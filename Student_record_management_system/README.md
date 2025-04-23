@@ -18,7 +18,7 @@
 ### 🚀 Quick start
 1. **Clone**
    ```bash
-   git clone https://github.com/Somaiya-0/Python-Learning.git
+   git clone https://github.com/Somaiya-0/Python_Learning.git
    cd Python-Learning/Student_record_management_system
 
    ```
