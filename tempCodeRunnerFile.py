@@ -1,0 +1,1 @@
+fruits.insert(5, 'yo')
