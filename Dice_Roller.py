@@ -45,7 +45,7 @@ for die in range(num_of_dice):
 # PRINT VERTICALLY
 # for die in range(num_of_dice):
 #    for line in dice_art.get(dice[die]):
-#        print(line)
+#         print(line)
 
 # PRINT HORIZONTALLY
 for line in range(5):
